@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tugas java util/error/error.iml" filepath="$PROJECT_DIR$/tugas java util/error/error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hehe.iml" filepath="$PROJECT_DIR$/hehe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hehe jing/hehe jing.iml" filepath="$PROJECT_DIR$/hehe jing/hehe jing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tugas java util/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/tugas java util/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pert 5/pert 5.iml" filepath="$PROJECT_DIR$/pert 5/pert 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tugas java util/tugas java util.iml" filepath="$PROJECT_DIR$/tugas java util/tugas java util.iml" />
+    </modules>
+  </component>
+</project>
